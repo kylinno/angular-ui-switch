@@ -1,7 +1,7 @@
 (function() {
 	'use strict';
 
-	angular.module('kylinno.switchery')
+	angular.module('kylinno.switchery',[])
 		.directive('uiSwitch', uiSwitch)
 	;
 	uiSwitch.$inject = ['$window', '$timeout','$log', '$parse'];

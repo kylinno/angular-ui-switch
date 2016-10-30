@@ -2,8 +2,8 @@
 	'use strict';
 
 	angular.module('kylinno.switchery')
-		.directive('uiSwitch', uiSwitch)
-	;
+		.directive('uiSwitch', uiSwitch);
+
 	uiSwitch.$inject = ['$window', '$timeout','$log', '$parse'];
 	function uiSwitch($window, $timeout, $log, $parse) {
 

@@ -24,3 +24,5 @@ angular.module('yourModule', ['kylinno.switchery'
     // other dependencies
 ]);
 ```
+
+uiSwitch
