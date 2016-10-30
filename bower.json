@@ -3,15 +3,15 @@
 	"author": {
 		"name": "liuwings",
 		"email": "lsy@kylinno.com",
-		"url": "https://github.com/liuwings"
+		"url": "https://github.com/kylinno"
 	},
   "description": "",
   "version": "0.0.1",
   "repository": {
 		"type": "git",
-		"url": "git@github.com:liuwings/angular-switchery.git"
+		"url": "git@github.com:kylinno/angular-ui-switch.git"
   },
-	"main": "./dist/angular-ui-switchery.min.js",
+	"main": "./dist/angular-ui-switch.min.js",
 
 	"dependencies": {
 	"angular": ">=1.3.*",
