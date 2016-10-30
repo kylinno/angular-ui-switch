@@ -1,12 +1,19 @@
 {
-  "name": "angular-switchery",
+  "name": "angular-ui-switchery",
+	"author": {
+		"name": "liuwings",
+		"email": "lsy@kylinno.com",
+		"url": "https://github.com/liuwings"
+	},
   "description": "",
   "version": "0.0.1",
   "repository": {
 		"type": "git",
-		"url": "git@github.com:liuwings/angular-bootstrap-switch.git"
+		"url": "git@github.com:liuwings/angular-switchery.git"
   },
-  "dependencies": {
+	"main": "./dist/angular-ui-switchery.min.js",
+
+	"dependencies": {
 	"angular": ">=1.3.*",
 	  "jquery": ">=1.9.0",
 	  "bootstrap": ">=2.3.2",
