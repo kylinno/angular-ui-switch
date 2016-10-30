@@ -1,0 +1,21 @@
+{
+  "name": "gh-pages",
+  "homepage": "https://github.com/kylinno/angular-ui-switch",
+  "authors": [
+    "liusy <liusy@kylinno.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-ui-switchery": "*"
+  }
+}
