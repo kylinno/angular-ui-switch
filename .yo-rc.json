@@ -1,9 +1,0 @@
-{
-  "generator-angm": {
-    "appName": "angular-swithery",
-    "angularCookies": false,
-    "angularAnimate": true,
-    "angularTouch": false,
-    "angularSanitize": false
-  }
-}
