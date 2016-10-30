@@ -11,7 +11,7 @@
 		"type": "git",
 		"url": "git@github.com:kylinno/angular-ui-switch.git"
   },
-	"main": "./dist/angular-ui-switch.min.js",
+	"main": "./dist/angular-ui-switch.js",
 
 	"dependencies": {
 	"angular": ">=1.3.*",

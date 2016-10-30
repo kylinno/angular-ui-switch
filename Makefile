@@ -12,4 +12,4 @@ js:
 
 bower:
 	@echo "Publishing as bower ..."
-	bower register angular-ui-switchery git@github.com:kylinno/angular-ui-switch.git
+	bower register angular-ui-switchery https://github.com/kylinno/angular-ui-switch.git
